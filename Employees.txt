@@ -1,0 +1,6 @@
+Nikita - Salesman
+Dima - Manager
+Sasha - Driver
+Andrey - Receptionist
+Michael - SalesmanToby - Driver
+Toby - Driver
